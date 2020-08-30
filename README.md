@@ -1,2 +1,0 @@
-# NewsAPI
-NewsAPI With JS 
